@@ -1,0 +1,9 @@
+dist/
+venv/
+__pycache__
+build
+dist
+*.swp
+*.spec
+__init__.py
+run.sh
